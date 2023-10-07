@@ -9,7 +9,7 @@ This is a backend capston project given by almabetter in this project we created
 click on the line to see the project 
 
 Frontend on Vercel.com
- - https://ge
+ - https://bookmyshow-2-project-pant.vercel.app/
 
 Backend on cyclic.sh
 
@@ -46,7 +46,7 @@ npm start
 ## How to use
  
 Click on this link for using the website
- - https://getbookmyshow.netlify.app
+ - https://bookmyshow-2-project-pant.vercel.app/
  1) First select movie you like 
  2) select time schedule 
  3) select seats

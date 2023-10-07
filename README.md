@@ -20,7 +20,7 @@ Backend on cyclic.sh
 
 If you want to work on this project clone this repo 
 bash
- git clone https://github.com/
+ git clone https://github.com/rohitqwert/Bookmyshow--2-project.git
 
 
 open this project on you local IDE  and in the terminal do this commands one by one 
